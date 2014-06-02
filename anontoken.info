@@ -1,0 +1,7 @@
+name = "Anonymous Token"
+description = "API module to extend the functionality provided by drupal_get_token and drupal."
+package = Custom
+dependencies[] = uuuid
+core = 7.x
+version = "7.x-1.0"
+
